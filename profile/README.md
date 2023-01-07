@@ -5,6 +5,6 @@ The course website can be found [here](https://opensourcecourse.dev).
 
 The website code is found [here](https://github.com/opensourcecourse/opencourse).
 
-The metacourse (the place to ask questions and file issues) is found [here](https://github.com/opensourcecourse/metacourse).
+The [student discussion board](https://github.com/orgs/opensourcecourse/teams/students) is the place to ask questions.
 
 We hope you find OpenSourceCourse a useful resource. 
